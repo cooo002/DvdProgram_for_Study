@@ -1,4 +1,4 @@
-//  commit check Replay Line
+//
 //  main.c
 //  DVDPro
 // x code에서 실행하면 어쩔 수 없이 한글이 분리되어서 출력된다. 그 이유는 인코딩 방식에서 발생되는 문제
@@ -18,7 +18,7 @@
 // 9. 연체, 블랙 리스트 만들기
 //.   es) 해당 이름의 회원 정보 출력, 해당 dvd에 정보를 출려
 //dvd 프로그램
-
+// check just fof github
 
 #include <stdio.h>
 #include <stdlib.h>
